@@ -1,5 +1,5 @@
 # Movie-recommedation-system-for-children-in-Indian-languages
-to built a movie recommendation engine for children aged between 3 to 17 years in Indian languages.
+To built a movie recommendation engine for children aged between 3 to 17 years in Indian languages.
 the system will generate suggestions in accordance to the prescribed language and the child's age.
 ~rvest package is used to scrape data from IMDB database. 
 Rating for each movie is taken from the parental guide which has 5 parameters, namely, violence, sex & nudity, profanity, alcohol usage and frightening scenes.
