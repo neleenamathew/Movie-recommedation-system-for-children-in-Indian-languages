@@ -2,6 +2,7 @@
 To built a movie recommendation engine for children aged between 3 to 17 years in Indian languages.
 the system will generate suggestions in accordance to the prescribed language and the child's age.
 ~rvest package is used to scrape data from IMDB database. 
+~purr package is used to apply function to each HTML element and scrape out the required.
 Rating for each movie is taken from the parental guide which has 5 parameters, namely, violence, sex & nudity, profanity, alcohol usage and frightening scenes.
 After scraping data, a rule based movie recommendation engine is build.
 to display results, html webpages are also build. 
